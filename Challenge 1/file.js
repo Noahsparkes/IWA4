@@ -1,6 +1,6 @@
-const date: 2050
-const status: 'student'
-const count = 0
+const date = 2050;
+const status ='student';
+const count = 0;
 
 if (date = 2050) {
 	console.log("January", 'New Year’s Day'
@@ -32,4 +32,4 @@ if (date = 2050) {
 
 console.log('Your status is:', status)
 console.log('The year is:', date)
-console.log('The total holidays is:', count)
+console.log('The total holidays is:', count) 
